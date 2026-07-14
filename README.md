@@ -15,6 +15,6 @@ Muchos estudiantes de Data Science sufren de **infoxicación**. Entre herramient
 
 ## Metodología (Fast Prompting) 🧠
 Para optimizar costos y eficiencia, este proyecto implementa:
-1.  **Sesión de chat continua:** Evita reenviar el prompt de sistema en cada consulta, ahorrando tokens.
+1.  **Sesión de chat continua:** evita reenviar el prompt de sistema en cada consulta, ahorrando tokens.
 2.  **Estructura de respuesta atómica:** (Analogía -> Uso en DS -> Check-point) para asegurar que el aprendizaje sea activo y no pasivo.
-3.  **Baja latencia:** El uso del modelo 'Flash' garantiza respuestas instantáneas.
+3.  **Baja latencia:** el uso del modelo 'Flash' garantiza respuestas instantáneas.
